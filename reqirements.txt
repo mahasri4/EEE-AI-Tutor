@@ -1,1 +1,16 @@
+streamlit
 google-generativeai
+openai
+pdfplumber
+python-docx
+speechrecognition
+pillow
+pytesseract
+sqlite3
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+googleapiclient
+requests
+pydub
+
