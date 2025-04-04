@@ -1,16 +1,15 @@
-streamlit
+python==3.9
 google-generativeai
 openai
+streamlit
 pdfplumber
-python-docx
+docx
 speechrecognition
 pillow
 pytesseract
-sqlite3
-google-auth
-google-auth-oauthlib
-google-auth-httplib2
-googleapiclient
 requests
 pydub
+google-api-python-client
+google-auth
+google-auth-oauthlib
 
